@@ -1,4 +1,4 @@
-# Awesome HASH [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://hash.ai/cdn-cgi/imagedelivery/EipKtqu98OotgfhvKf6Eew/b277e84b-2f91-437c-dedf-8c50bbc41e00/public" width="200" align="right" alt="HASH">](https://hash.ai/?utm_medium=organic&utm_source=github_readme_awesomehash-repo_root)
+# Awesome HASH [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://hash.ai/cdn-cgi/imagedelivery/EipKtqu98OotgfhvKf6Eew/b277e84b-2f91-437c-dedf-8c50bbc41e00/public" width="200" align="right" alt="HASH">](https://hash.ai/?utm_medium=organic&utm_source=github_readme_awesomehash-repo_root-header_logo)
 
 > A curated list of the best resources in the HASH ecosystem.
 
