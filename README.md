@@ -4,9 +4,7 @@
 
 [HASH](https://github.com/hashintel/hash) is a powerful platform for knowledge management and decision-making. With it you can integrate and structure data, build block-based interfaces, and develop simulation models of your world.
 
-*Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
-
-_This repository is new and will be expanded in due course._
+Read the [contribution guidelines](CONTRIBUTING.md) before submitting a resource. Please also note that this repository is *new* and will be expanded in due course.
 
 ## Contents
 
