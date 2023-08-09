@@ -21,6 +21,9 @@ Read the [contribution guidelines](CONTRIBUTING.md) before submitting a resource
 
 ### Developers
 * Official [HASH developer site](https://hash.dev/?utm_medium=organic&utm_source=github_readme_awesomehash-repo_root)
+    * Official [developer blog](https://hash.dev/blog?utm_medium=organic&utm_source=github_readme_awesomehash-repo_root)
+    * Official [developer docs](https://hash.dev/docs?utm_medium=organic&utm_source=github_readme_awesomehash-repo_root)
+    * Official [development roadmap](https://hash.dev/roadmap?utm_medium=organic&utm_source=github_readme_awesomehash-repo_root)
 
 ## Community
 * Official [HASH Discord](https://hash.ai/discord?utm_medium=organic&utm_source=github_readme_awesomehash-repo_root)
