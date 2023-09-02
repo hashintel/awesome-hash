@@ -19,11 +19,14 @@ Read the [contribution guidelines](CONTRIBUTING.md) before submitting a resource
 ## Resources
 
 ### User Guides & Tutorials
-* Official [HASH user guide](https://hash.ai/docs?utm_medium=organic&utm_source=github_readme_awesomehash-repo_root)
-* Official guide to [using HASH for simulation](https://hash.ai/docs/simulation?utm_medium=organic&utm_source=github_readme_awesomehash-repo_root)
+* Official [HASH user guide](https://hash.ai/guide?utm_medium=organic&utm_source=github_readme_awesomehash-repo_root)
+* Official guide to [using HASH for simulation](https://hash.ai/guide/simulation?utm_medium=organic&utm_source=github_readme_awesomehash-repo_root)
 
 ### Developers
 * Official [HASH developer site](https://hash.dev/?utm_medium=organic&utm_source=github_readme_awesomehash-repo_root)
+    * Official [developer blog](https://hash.dev/blog?utm_medium=organic&utm_source=github_readme_awesomehash-repo_root)
+    * Official [developer docs](https://hash.dev/docs?utm_medium=organic&utm_source=github_readme_awesomehash-repo_root)
+    * Official [development roadmap](https://hash.dev/roadmap?utm_medium=organic&utm_source=github_readme_awesomehash-repo_root)
 
 ## Source Code
 
