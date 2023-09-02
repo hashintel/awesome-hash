@@ -31,7 +31,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before submitting a resource
 * [HASH](https://github.com/hashintel/hash)
 
 ### Experiments
-* [HASH Engine](https://github.com/hashintel/labs/tree/main/apps/sim-engine) (hEngine): 
+* [HASH Engine](https://github.com/hashintel/labs/tree/main/apps/sim-engine) (hEngine)
 * [HASH Core](https://github.com/hashintel/labs/tree/main/apps/sim-core) (hCore)
 * [HASH Core Plugins](https://github.com/hashintel/labs/tree/main/apps/sim-engine-plugins)
 * [Other proof of concepts](https://github.com/hashintel/labs/tree/main/pocs)
