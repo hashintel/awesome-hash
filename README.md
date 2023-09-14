@@ -24,11 +24,14 @@ Read the [contribution guidelines](CONTRIBUTING.md) before submitting a resource
 
 ### Developers
 * Official [HASH developer site](https://hash.dev/?utm_medium=organic&utm_source=github_readme_awesomehash-repo_root)
+* Official [Block Protocol documentation](https://blockprotocol.org/docs?utm_medium=organic&utm_source=github_readme_awesomehash-repo_root)
+* Official [Block Protocol specification](https://blockprotocol.org/spec?utm_medium=organic&utm_source=github_readme_awesomehash-repo_root)
 
 ## Source Code
 
 ### Active Projects
 * [HASH](https://github.com/hashintel/hash)
+* [Block Protocol](https://github.com/blockprotocol/blockprotocol)
 
 ### Experiments
 * [HASH Engine](https://github.com/hashintel/labs/tree/main/apps/sim-engine) (hEngine)
@@ -37,5 +40,6 @@ Read the [contribution guidelines](CONTRIBUTING.md) before submitting a resource
 * [Other proof of concepts](https://github.com/hashintel/labs/tree/main/pocs)
 
 ## Community
-* Official [HASH Discord](https://hash.ai/discord?utm_medium=organic&utm_source=github_readme_awesomehash-repo_root)
 * Official [HASH Reddit](https://www.reddit.com/r/hashintel/)
+* Official [HASH Discord](https://hash.ai/discord?utm_medium=organic&utm_source=github_readme_awesomehash-repo_root)
+* Official [Block Protocol Discord](https://blockprotocol.org/discord?utm_medium=organic&utm_source=github_readme_awesomehash-repo_root)
